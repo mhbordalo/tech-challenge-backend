@@ -1,4 +1,4 @@
-# tech-challenge-3-back-end
+# Tech-Challenge-Backend
 
 Back end de uma aplicação de posts com MongoDB
 
